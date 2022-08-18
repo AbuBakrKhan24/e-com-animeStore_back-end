@@ -1,0 +1,11 @@
+DB_HOST=bo1w0owqlhszicbggbqc-mysql.services.clever-cloud.com
+DB_USER=upe0idcivye1ua4h
+DB_PASS=OzWgQdMOWbpIQhU9CjLQ
+DB_NAME=bo1w0owqlhszicbggbqc
+
+MAILERHOST=smtp.ethereal.email
+MAILERUSER=bret58@ethereal.email
+MAILERPASS=vzqHD53btDaKbE3bGj
+MAILERPORT=587
+
+jwtSecret=Nobody_should_know_this
